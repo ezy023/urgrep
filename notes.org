@@ -1,0 +1,5 @@
+* Milestones
+** Accept list of URLs from command line, fetch and print html, synchronous
+** Add searching for text query
+*** only output text query matches
+** add reading from a browser history db
